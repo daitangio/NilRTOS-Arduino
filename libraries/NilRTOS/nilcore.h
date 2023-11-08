@@ -188,6 +188,7 @@ struct port_intctx {
  * @brief   IRQ prologue code.
  * @details This macro must be inserted at the start of all IRQ handlers
  *          enabled to invoke system APIs.
+ * For explanation see 'HOW_IT_WORKS.md'
  */
 #define PORT_IRQ_PROLOGUE() {                                               \
   asm ("" : : : "r18", "r19", "r20", "r21", "r22", "r23", "r24",            \

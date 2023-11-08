@@ -1,9 +1,13 @@
-Try the new version of ChibiOS/Nil.  It has major improvements and a new API.
+# Introduction
+This is a fork of [Greiman NilRTOS](https://github.com/greiman/NilRTOS-Arduino), tiny RTOS library for AVR Arduino boards.
 
-https://github.com/greiman/ChNil
+The aim of the fork is to simplify further Nil, reducing it to the essential part to ease learning how it works.
 
-NilRTOS is a tiny RTOS library for AVR Arduino boards.
+# Getting started
 
+
+
+# History
 The base code for NilRTOS was written by Giovanni Di Sirio, the author
 of ChibiOS/RT.
 
