@@ -19,10 +19,10 @@ To better study NilRTOS, we suggest to use VSCode with C/C++ integration or GNU 
 
 # TO DO LIST
 
-[X] Fork project
-[ ] DOCUMENT asm usage
-[ ] Remove unused code
-[ ] Fine tune doxygen
+- [x] Fork project
+- [ ] DOCUMENT asm usage
+- [ ] Remove unused code
+- [ ] Fine tune doxygen
 
 
 
